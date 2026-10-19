@@ -1,0 +1,2 @@
+I am Kishan Nayaka, a front-end web developer based in Chitradurga, Karnataka, India. I specialize in building responsive, accessible, and visually refined digital experiences using React, Next.js, and modern JavaScript. Blending design-to-code execution with clean component architecture, I am passionate about crafting interfaces that feel purposeful and performant across every screen.
+https://kishannayaka.github.io/Kishan-Nayaka/
